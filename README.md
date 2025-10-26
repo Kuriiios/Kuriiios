@@ -34,7 +34,8 @@ me.say_hi()
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
 ![SpringBoot](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
 ![R](https://img.shields.io/badge/Code-R-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
-![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
+![PHP
+](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
 ![Symfony](https://img.shields.io/badge/Code-Symfony-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
 
@@ -60,6 +61,6 @@ me.say_hi()
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kuriiios&repo=F1-Analysis&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="F1 Analysis" />
 </a>
 
-<a href="https://github.com/Kuriiios/ML_training">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kuriiios&repo=ML_training&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ML_training" />
+<a href="https://github.com/Kuriiios/ML-Model-Training">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kuriiios&repo=ML-Model-Training&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ML-Model-Training" />
 </a>
