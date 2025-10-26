@@ -52,3 +52,14 @@ me.say_hi()
 ![Formule1](https://img.shields.io/badge/🏎️-Formule1-informational?style=flat&color=6aa6f8)
 ![Watchmaking](https://img.shields.io/badge/⌚-Watchmaking-informational?style=flat&color=6aa6f8)
 ![Woodworking](https://img.shields.io/badge/🪵-Woodworking-informational?style=flat&color=6aa6f8)
+
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/Kuriiios/f1_analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kuriiios&repo=f1_analysis&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="F1 Analysis" />
+</a>
+
+<a href="https://github.com/Kuriiios/ML_training">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kuriiios&repo=ML_training&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ML_training" />
+</a>
