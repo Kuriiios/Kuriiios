@@ -29,30 +29,30 @@ me.say_hi()
 
 **Programming Languages:**
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
-![SpringBoot](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
 ![R](https://img.shields.io/badge/Code-R-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
-![PHP
-](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
-![Symfony](https://img.shields.io/badge/Code-Symfony-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 
 **Tools:**
 
-![Tableau](https://img.shields.io/badge/Code-Tableau-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![Linux](https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
+![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)
+![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)
+!![Pop!_OS](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff)
 ![Tableurs](https://img.shields.io/badge/Code-Tableurs-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
-![Docker](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
-![Postman](https://img.shields.io/badge/Code-Postman-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 ## ❤️ Passions
 
-![Ironman](https://img.shields.io/badge/🎽-Ironman_Triathlon-informational?style=flat&color=6aa6f8)
-![Formule1](https://img.shields.io/badge/🏎️-Formula_1-informational?style=flat&color=6aa6f8)
-![Watchmaking](https://img.shields.io/badge/⌚-Watchmaking-informational?style=flat&color=6aa6f8)
-![Woodworking](https://img.shields.io/badge/🪵-Woodworking-informational?style=flat&color=6aa6f8)
+![Ironman](https://img.shields.io/badge/🎽Ironman_Triathlon-informational?color=EF1A2D)
+![Formule1](https://img.shields.io/badge/🏎️Formula_1-informational?style=flat&color=FFF200)
+![Watchmaking](https://img.shields.io/badge/⌚Watchmaking-informational?style=flat&color=CEC1B4)
+![Woodworking](https://img.shields.io/badge/🪵Woodworking-informational?style=flat&color=D7BA89)
 
 
 ## 🗂️ Highlight Projects
