@@ -50,7 +50,7 @@ me.say_hi()
 ## ❤️ Passions
 
 ![Ironman](https://img.shields.io/badge/🎽-Ironman_Triathlon-informational?style=flat&color=6aa6f8)
-![Formule1](https://img.shields.io/badge/🏎️-Formule1-informational?style=flat&color=6aa6f8)
+![Formule1](https://img.shields.io/badge/🏎️-Formula_1-informational?style=flat&color=6aa6f8)
 ![Watchmaking](https://img.shields.io/badge/⌚-Watchmaking-informational?style=flat&color=6aa6f8)
 ![Woodworking](https://img.shields.io/badge/🪵-Woodworking-informational?style=flat&color=6aa6f8)
 
